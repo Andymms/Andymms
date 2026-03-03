@@ -30,6 +30,7 @@
 
 ## 🎯 Currently Learning
 
+- Developing HTML5 and React skills
 - Game development (loops, AI, collision detection)
 - Unity
 - Technical art & game feel
