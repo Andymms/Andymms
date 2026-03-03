@@ -3,7 +3,7 @@
 🎮 **Currently building:** [Ninja Survivor](https://github.com/Andymms/ninja-survivor) — a browser-based action game inspired by Hollow Knight & Vampire Survivors (HTML5 Canvas, vanilla JS)
 
 💻 **Full Stack Skills:** React, Python, Flask, SQL, REST APIs, JWT, Bootstrap  
-🧪 **QA & Testing:** Jest, manual testing, game loop debugging, collision system validation
+🐛 **Debugging & Testing:** Jest, manual testing, game loop debugging, collision system validation
 🌎 **Remote from Venezuela** — available for LATAM/US time zones, EU flexible
 📫 **Contact:** andreamm0714@gmail.com | +58 414-882-4717
 
@@ -13,7 +13,7 @@
 
 **Full Stack Development:** Build complete web apps from database to UI (React + Flask + SQL)  
 **Game Development:** Design mechanics, implement AI, polish game feel (JavaScript/Canvas)  
-**QA & Testing:** Write tests, debug systems, validate user experiences  
+**Problem Solving:** Debug systems, optimize performance, validate user experiences
 
 ---
 
@@ -31,7 +31,7 @@
 
 **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap, Canvas API  
 **Backend:** Python, Flask, SQLAlchemy, REST APIs, JWT Auth  
-**Testing:** Jest, manual QA, debugging  
+**Testing:** Jest, manual testing, debugging  
 **Tools:** Git, GitHub, Linux, VS Code
 
 ---
@@ -44,4 +44,4 @@
 
 ---
 
-*Open to: Junior Full Stack Developer • QA Tester • Junior Game Developer • Technical Support.*
+*Open to: Junior Full Stack Developer • Junior Game Developer • Technical Support.*
