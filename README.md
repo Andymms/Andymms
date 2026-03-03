@@ -4,7 +4,7 @@
 
 💻 **Full Stack Skills:** React, Python, Flask, SQL, REST APIs, JWT, Bootstrap  
 🐛 **Debugging & Testing:** Jest, manual testing, game loop debugging, collision system validation                                
-🌎 **Remote from Venezuela** — available for LATAM/US time zones, EU flexible
+🌎 **Remote from Venezuela** — available for LATAM/US time zones, EU flexible                                                    
 📫 **Contact:** andreamm0714@gmail.com | +58 414-882-4717
 
 ---
