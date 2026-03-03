@@ -3,7 +3,7 @@
 🎮 **Currently building:** [Ninja Survivor](https://github.com/Andymms/ninja-survivor) — a browser-based action game inspired by Hollow Knight & Vampire Survivors (HTML5 Canvas, vanilla JS)
 
 💻 **Full Stack Skills:** React, Python, Flask, SQL, REST APIs, JWT, Bootstrap  
-🐛 **Debugging & Testing:** Jest, manual testing, game loop debugging, collision system validation
+🐛 **Debugging & Testing:** Jest, manual testing, game loop debugging, collision system validation                                
 🌎 **Remote from Venezuela** — available for LATAM/US time zones, EU flexible
 📫 **Contact:** andreamm0714@gmail.com | +58 414-882-4717
 
