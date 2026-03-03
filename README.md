@@ -1,16 +1,39 @@
-## Hi there 👋
+# Andrea Mujica | Full Stack Developer & Game Developer
 
-<!--
-**Andymms/Andymms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Currently building:** [Ninja Survivor](https://github.com/Andymms/ninja-survivor) — a browser-based action game inspired by Hollow Knight & Vampire Survivors (HTML5 Canvas, vanilla JS)
 
-Here are some ideas to get you started:
+💻 **Full Stack Skills:** React, Python, Flask, SQL, REST APIs, JWT, Bootstrap  
+🧪 **Testing:** Jest, manual QA, debugging game loops & collision systems  
+🌎 **Based in Venezuela** — working remotely, open to LATAM/US/EU time zones  
+📫 **Contact:** andreamm0714@gmail.com | +58 414-882-4717
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | What I Built |
+|---------|-------|--------------|
+| **[HiDoc Website](link)** | React, Flask, SQL, JWT | Freelance platform for doctors with symptom-matching algorithm |
+| **[Star Wars Blog](link)** | React, Context API, REST API | Dynamic blog consuming SWAPI with global state management |
+| **[Ninja Survivor](link)** | HTML5 Canvas, JavaScript | Action game with procedural enemy spawning, combat system, game feel |
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap, Canvas API  
+**Backend:** Python, Flask, SQLAlchemy, REST APIs, JWT Auth  
+**Testing:** Jest, manual QA, debugging  
+**Tools:** Git, GitHub, Linux, VS Code
+
+---
+
+## 🎯 Currently Learning
+
+- Game development (loops, AI, collision detection)
+- Unity
+- Technical art & game feel
+
+---
+
+*Open to junior developer roles, QA testing, and game dev opportunities.*
