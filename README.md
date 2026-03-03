@@ -13,9 +13,9 @@
 
 | Project | Stack | What I Built |
 |---------|-------|--------------|
-| **[HiDoc Website](link)** | React, Flask, SQL, JWT | Freelance platform for doctors with symptom-matching algorithm |
-| **[Star Wars Blog](link)** | React, Context API, REST API | Dynamic blog consuming SWAPI with global state management |
-| **[Ninja Survivor](link)** | HTML5 Canvas, JavaScript | Action game with procedural enemy spawning, combat system, game feel |
+| **[HiDoc Website](https://github.com/Andymms/HiDoc)** | React, Flask, SQL, JWT | Freelance platform for doctors with symptom-matching algorithm |
+| **[Star Wars Blog](https://github.com/Andymms/Starwars-blog-reading-list)** | React, Context API, REST API | Dynamic blog consuming SWAPI with global state management |
+| **[Ninja Survivor](https://github.com/Andymms/ninja-survivor)** | HTML5 Canvas, JavaScript | Action game with procedural enemy spawning, combat system, game feel |
 
 ---
 
