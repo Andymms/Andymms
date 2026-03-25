@@ -1,4 +1,8 @@
-# Andrea Mujica | Full Stack Developer & Game Developer
+<p align="center">
+  <img src="Banner.jpg" alt="Andrea Mujica Banner" width="100%">
+</p>
+
+# Hi! I'm Andrea
 
 🎮 **Currently building:** [Ninja Survivor](https://github.com/Andymms/ninja-survivor) — a browser-based action game inspired by Hollow Knight & Vampire Survivors (HTML5 Canvas, vanilla JS)
 
@@ -33,6 +37,9 @@
 **Backend:** Python, Flask, SQLAlchemy, REST APIs, JWT Auth  
 **Testing:** Jest, manual testing, debugging  
 **Tools:** Git, GitHub, Linux, VS Code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andymms&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
