@@ -49,7 +49,6 @@
 - Game development (loops, AI, collision detection)
 - Unity
 - Technical art & game feel
-*Open to: Junior Full Stack Developer • Junior Game Developer • Technical Support.*
 ---
 
 <p align="center">
