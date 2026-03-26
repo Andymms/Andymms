@@ -33,10 +33,11 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap, Canvas API  
-**Backend:** Python, Flask, SQLAlchemy, REST APIs, JWT Auth  
-**Testing:** Jest, manual testing, debugging  
-**Tools:** Git, GitHub, Linux, VS Code
+### 🌐 Frontend
+![React](https://img.shields.io/badge/react-%23434d52.svg?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23434d52.svg?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23434d52.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23434d52.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23434d52.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Tools
+![Python](https://img.shields.io/badge/python-%23434d52.svg?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23434d52.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23434d52.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23434d52?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23434d52.svg?style=for-the-badge&logo=git&logoColor=white)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andymms&layout=compact&theme=tokyonight" />
 </p>
