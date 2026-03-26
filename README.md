@@ -49,7 +49,10 @@
 - Game development (loops, AI, collision detection)
 - Unity
 - Technical art & game feel
-
+*Open to: Junior Full Stack Developer • Junior Game Developer • Technical Support.*
 ---
 
-*Open to: Junior Full Stack Developer • Junior Game Developer • Technical Support.*
+<p align="center">
+  <i>"Experience outranks everything."</i> <br>
+  <b>— Ahsoka Tano</b>
+</p>
