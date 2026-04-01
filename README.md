@@ -39,9 +39,8 @@
 ### ⚙️ Backend & Tools
 ![Python](https://img.shields.io/badge/python-%23434d52.svg?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23434d52.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23434d52.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23434d52?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23434d52.svg?style=for-the-badge&logo=git&logoColor=white)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andymms&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andymms&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🎯 Currently Learning
