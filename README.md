@@ -8,7 +8,8 @@
 
 💻 **Full Stack Skills:** React, Python, JS, Flask, SQL, REST APIs, JWT, Bootstrap  
 🐛 **Debugging & Testing:** Jest, manual testing, game loop debugging                               
-🌎 **Barcelona, Spain** — available for EU time zones
+🌎 **Barcelona, Spain** — available for EU time zones  
+
 📫 **Contact:** andreamm0714@gmail.com | +58 414-882-4717
 
 ---
